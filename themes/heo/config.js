@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '/tzzZ',
+  HEO_HERO_TITLE_1: '....zzZ',
   HEO_HERO_TITLE_2: '猫酣',
   HEO_HERO_TITLE_3: 'MIOZ.LIFE',
   HEO_HERO_TITLE_4: '这里是',
