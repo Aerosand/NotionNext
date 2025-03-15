@@ -8,10 +8,11 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎～', url: 'https://www.mioz.life' },
-    { title: '你好～', url: 'https://www.mioz.life' },
-    { title: '猫酣～', url: 'https://www.mioz.life' },
-    { title: 'zzZ～', url: 'https://www.mioz.life' }
+    { title: '猫酣zzZ～', url: 'https://www.mioz.life' },
+    { title: '生活随笔～', url: '/tag/log' },
+    { title: '学习备忘～', url: 'https://www.mioz.life/note' },
+    { title: '书影小记～', url: 'https://www.mioz.life/read' },
+    { title: '奇奇怪怪～', url: 'https://www.mioz.life/mioz' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -30,9 +31,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '学习备忘', url: '/tag/学习备忘' },
-  HEO_HERO_CATEGORY_2: { title: '书影小记', url: '/tag/书影小记' },
-  HEO_HERO_CATEGORY_3: { title: '奇奇怪怪', url: '/tag/奇奇怪怪' },
+  HEO_HERO_CATEGORY_1: { title: '学习备忘', url: 'https://www.mioz.life/note' },
+  HEO_HERO_CATEGORY_2: { title: '书影小记', url: 'https://www.mioz.life/read' },
+  HEO_HERO_CATEGORY_3: { title: '奇奇怪怪', url: 'https://www.mioz.life/mioz' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
