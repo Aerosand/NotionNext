@@ -18,19 +18,19 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '记录生活',
-  HEO_HERO_TITLE_2: '碎碎念',
+  HEO_HERO_TITLE_1: '猫',
+  HEO_HERO_TITLE_2: '酣',
   HEO_HERO_TITLE_3: 'MIOZ.LIFE',
   HEO_HERO_TITLE_4: '这里是',
-  HEO_HERO_TITLE_5: '猫酣',
+  HEO_HERO_TITLE_5: '猫酣 | Mioz',
   HEO_HERO_TITLE_LINK: 'https://mioz.life',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/生活小记' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/书影随笔' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/奇奇怪怪' },
+  HEO_HERO_CATEGORY_1: { title: '生活随笔', url: '/tag/生活随笔' },
+  HEO_HERO_CATEGORY_2: { title: '书影小记', url: '/tag/书影小记' },
+  HEO_HERO_CATEGORY_3: { title: '奇奇怪怪', url: '/tag/奇奇怪怪' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -45,8 +45,6 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://mioz.life/about',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
@@ -54,7 +52,8 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      // img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      img_1: 'https://images.unsplash.com/photo-1736842666465-5234629bff2b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
       color_1: '#989bf8',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
