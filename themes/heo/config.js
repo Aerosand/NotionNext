@@ -21,7 +21,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '猫酣 | Mioz',
-  HEO_HERO_TITLE_2: '/ᐠ.ꞈ.ᐟ\...zzZ',
+  HEO_HERO_TITLE_2: '/ᐠ.ꞈ.ᐟ\',
   HEO_HERO_TITLE_3: 'MIOZ.LIFE',
   HEO_HERO_TITLE_4: '这里是',
   HEO_HERO_TITLE_5: '猫酣 | Mioz',
