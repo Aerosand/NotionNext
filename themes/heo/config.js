@@ -115,7 +115,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '打赏赞助',
   HEO_SOCIAL_CARD_TITLE_2: '支持猫酣小窝的日常打理',
   HEO_SOCIAL_CARD_TITLE_3: '跳转赞助二维码',
-  HEO_SOCIAL_CARD_URL: 'https://www.mioz.life',
+  HEO_SOCIAL_CARD_URL: 'https://www.mioz.life/thanks',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
